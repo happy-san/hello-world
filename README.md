@@ -4,5 +4,7 @@ Learning about GitHub
 <details>
 <summary>Links in dropdown</summary>
 
-- [x] [Check](/README.md)
+| Puzzle | Solution|
+|------------------------------------------|---------------|
+|- [x] [Check](/README.md)| [Readme](/README.md)|
 </details>
