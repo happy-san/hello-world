@@ -6,5 +6,5 @@ Learning about GitHub
 
 | Puzzle                                           | Solution            |
 |-------------------------|---------------------|
-- [x]|  [Check](/README.md)                 | [Readme](/README.md)|
+|  [Check](/README.md)                 | |
 </details>
