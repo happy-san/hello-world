@@ -8,3 +8,5 @@ Learning about GitHub
 |-------------------------|---------------------|
 |  [Check](/README.md)                 | |
 </details>
+
+### Small heading
